@@ -1,0 +1,24 @@
+{
+  "temperature": 28.8,
+  "humidity": 56,
+  "trafficLevel": "moderate",
+  "currentSpeed": 19,
+  "pm25": 63,
+  "weatherMain": "Clouds",
+  "alerts": [
+    {
+      "key": "traffic:traffic_congestion",
+      "title": "Traffic Congestion",
+      "severity": "Medium",
+      "type": "traffic",
+      "condition": "traffic_congestion"
+    },
+    {
+      "key": "air_quality:poor_air_quality",
+      "title": "Poor Air Quality",
+      "severity": "Medium",
+      "type": "air_quality",
+      "condition": "poor_air_quality"
+    }
+  ]
+}

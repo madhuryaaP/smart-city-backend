@@ -1,0 +1,13 @@
+{
+  "initialized": true,
+  "temperature": 26.23,
+  "trafficSpeed": 27,
+  "trafficLevel": "Light",
+  "pm25": 63,
+  "weatherCondition": "Clouds",
+  "lastNotifications": {
+    "traffic_change": 1788194700470,
+    "temperature_change": 1788192900757,
+    "air_quality_change": 1788193499899
+  }
+}
